@@ -51,3 +51,4 @@
 
 ### notion
 https://chip-xylocarp-9f2.notion.site/1c442a10653d80ceadf6d561d6f55bec
+https://chip-xylocarp-9f2.notion.site/1c442a10653d80e5b078eb84eba64617?pvs=73
