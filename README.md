@@ -48,3 +48,6 @@
 - mongoDB
 - Docker
 - YOLOv5
+
+### notion
+https://chip-xylocarp-9f2.notion.site/1c442a10653d80ceadf6d561d6f55bec
