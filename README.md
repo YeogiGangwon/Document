@@ -48,5 +48,3 @@
 - mongoDB
 - Docker
 - YOLOv5
-
-### notion
